@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b2e80dfe5b2709c04a96b30253ba158",
+    "revision": "ded073f6c50d0e3037cae608168549c1",
     "url": "/Promiseint/index.html"
   },
   {
